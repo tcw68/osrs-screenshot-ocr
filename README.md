@@ -1,0 +1,1 @@
+# osrs-screenshot-ocr
